@@ -1,0 +1,15 @@
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.csproj.AssemblyReference.cache
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.AssemblyInfoInputs.cache
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.AssemblyInfo.cs
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.csproj.CoreCompileInputs.cache
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\bin\Debug\net6.0\Sm_3_onl.exe
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\bin\Debug\net6.0\Sm_3_onl.deps.json
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\bin\Debug\net6.0\Sm_3_onl.runtimeconfig.json
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\bin\Debug\net6.0\Sm_3_onl.dll
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\bin\Debug\net6.0\Sm_3_onl.pdb
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.dll
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\refint\Sm_3_onl.dll
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.pdb
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\Sm_3_onl.genruntimeconfig.cache
+C:\Users\Максютов В\Desktop\SM_Onl\Sm_3_onl\obj\Debug\net6.0\ref\Sm_3_onl.dll
