@@ -1,0 +1,15 @@
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.csproj.AssemblyReference.cache
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.AssemblyInfoInputs.cache
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.AssemblyInfo.cs
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.csproj.CoreCompileInputs.cache
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\bin\Debug\net6.0\Sm_8_DZ_4.exe
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\bin\Debug\net6.0\Sm_8_DZ_4.deps.json
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\bin\Debug\net6.0\Sm_8_DZ_4.runtimeconfig.json
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\bin\Debug\net6.0\Sm_8_DZ_4.dll
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\bin\Debug\net6.0\Sm_8_DZ_4.pdb
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.dll
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\refint\Sm_8_DZ_4.dll
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.pdb
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\Sm_8_DZ_4.genruntimeconfig.cache
+C:\Users\Максютов В\Desktop\Sm_DZ\Sm_8_DZ_4\obj\Debug\net6.0\ref\Sm_8_DZ_4.dll
